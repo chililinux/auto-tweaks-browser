@@ -1,5 +1,5 @@
-# Template file for 'auto-tweaks-browser'
-pkgname=auto-tweaks-browser
+# Template file for 'chili-auto-tweaks-browser'
+pkgname=chili-auto-tweaks-browser
 version=1.0.0
 revision=1
 noarch=true
