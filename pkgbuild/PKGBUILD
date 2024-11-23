@@ -1,8 +1,8 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
-#depends=('')
+pkgname=auto-tweaks-browser
+pkgdesc="Auto optimize brave, chromium, epiphany, falkon, firefox, google-chrome, opera and vivaldi"
+depends=('nosync-browser' 'libva-utils' 'mesa-utils' 'irqbalance')
 #makedepends=('')
 #optdepends=('')
 #conflicts=('')
